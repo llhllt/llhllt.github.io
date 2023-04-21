@@ -1,4 +1,4 @@
-Hux Blog User Manual
+Zhangshuo Blog User Manual
 ====================
 
 * Basics
